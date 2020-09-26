@@ -1,0 +1,15 @@
+.navbar{
+    background-color: 	rgb(255,215,51);
+    color:rgb(205,133,63);
+}
+a{
+    color:rgb(205,133,63);
+}
+body{
+    background-color:#FFFF99;
+}
+#search{
+    align-content: center;
+    text-align: center;
+
+}
